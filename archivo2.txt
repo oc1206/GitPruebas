@@ -1,4 +1,4 @@
-pruebas 1.1
-pruebas 2.2
+pruebas 1
+pruebas 2
 pruebas 3
-pruebas 4.1
+pruebas 4
